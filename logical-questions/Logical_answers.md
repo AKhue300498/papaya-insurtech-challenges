@@ -57,9 +57,18 @@ PA2: Nên lắp thêm hệ thống quạt kết hợp cùng dẫn lưu khí hợ
 
 Để có được một quan sát nhanh và đúng, với tôi tôi gọi đó là "bản đồ" cho sự quan sát. Muốn nhanh ta cần phải có 1 guideline các điểm cần nhìn và chỉ tập trung phân tích các yếu tố đó thôi, tránh các yếu tố gây nhiễu khác làm ảnh hưởng đến quyết định.
 
-Dựa trên các ràng buộc của đề bài, tôi có thể liệt kê ra các điềm nhìn mà chúng ra có thể quan sát nhanh: biển hiệu, người bán, bố cục của gian hàng.
+Theo tôi, sẽ không có một món hàng nào vừa ngon vừa bổ lại rẻ cả. Nên tôi chỉ muốn quan tâm đến khía cạnh giúp tôi hài lòng khi đã mua hàng bao gồm ngon, đảm bảo vế sinh và đáng giá.
+
+Dựa trên các ràng buộc của đề bài, tôi có thể liệt kê ra các điềm nhìn mà chúng ra có thể quan sát nhanh: biển hiệu và bảng giá, người bán, bố cục của gian hàng.
 Các yếu tố cần xem xét của từng điềm nhìn bao gồm:
 
-- Biển hiệu:
+- Biển hiệu và bảng giá:
   - Có chỉn chu, rõ ràng hoặc có đề cập đến chuyên một loại trái cây nào không ?
-  - Biển hiệu có sự lâu đời chưa ?  
+  - Biển hiệu có sự lâu đời chưa ? bao gồm thiết kễ, thông tin cần thiết được người bán chắt lọc qua quá trình lâu dài buôn bán không  
+  - Bảng giá có rõ ràng/trung thực không? Thông tin có đầy đủ không ?
+- Người bán:
+  - Họ có thái độ như thế nào ? Chán nản hay vui vẻ dễ chịu
+  - Cách ăn mặc và hành xử ra sao ? Có chỉn chu sạch sẽ không ?
+- Bô cục:
+  - Không yêu cầu sạch từng chiếc lá ( vì đôi khi ế quá cũng sẽ dọn cửa hàng rất sạch) nhưng phải biết cái gì mình ngon mà tập trung trưng bày nhưng vẫn phải ở mức có thể chấp nhận.
+  - Có thẩm mĩ không ? Sắp xếp có logic không ? Vì có những loại sắp xếp cốt để che đi trái xấu.

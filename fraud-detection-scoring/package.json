@@ -1,0 +1,33 @@
+{
+  "name": "fraud-detection-scoring",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "score": "node src/cli/score.js",
+    "data:generate": "node src/cli/generate.js",
+    "evaluate": "node src/cli/evaluate.js",
+    "test": "node scripts/test.js",
+    "test:unit": "node scripts/test.js unit",
+    "test:acceptance": "node scripts/test.js acceptance",
+    "lint": "eslint . && node scripts/no-comments.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.13.0",
+    "espree": "^11.2.0",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10"
+  }
+}

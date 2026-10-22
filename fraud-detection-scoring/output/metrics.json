@@ -1,0 +1,59 @@
+{
+  "schema_version": "1",
+  "dataset_hash": "0aaa3cfe52475bde2588736dc64a383701bbf431ace68f3e5bb33b56512b0cdc",
+  "configuration_hash": "03baf9c849b29035dba9106bceda73a27d887c5a55129ddaca29de1feecc7725",
+  "effective_weights": {
+    "duplicate_claim": 5,
+    "rapid_resubmission": 3,
+    "upcoding": 4,
+    "unbundling": 4,
+    "phantom_billing": 5,
+    "weekend_anomaly": 2,
+    "diagnosis_procedure_mismatch": 4,
+    "amount_clustering": 2
+  },
+  "mapping_version": "synthetic-1",
+  "decision_policy": {
+    "mode": "any_flag",
+    "comparison": ">",
+    "threshold": 0
+  },
+  "confusion_matrix": {
+    "tp": 200,
+    "fp": 36,
+    "tn": 1764,
+    "fn": 0
+  },
+  "precision": 0.847457627118644,
+  "recall": 1,
+  "false_positive_rate": 0.02,
+  "undefined_metrics": [],
+  "counts": {
+    "claims": 2000,
+    "actual_fraud": 200,
+    "actual_clean": 1800,
+    "predicted_fraud": 236,
+    "predicted_clean": 1764
+  },
+  "scoring_duration_ms": 35.8066,
+  "environment": {
+    "node": "v24.19.0",
+    "platform": "win32",
+    "architecture": "x64"
+  },
+  "targets": {
+    "recall": {
+      "minimum": 0.7,
+      "passed": true
+    },
+    "false_positive_rate": {
+      "maximum": 0.2,
+      "passed": true
+    },
+    "scoring_duration_ms": {
+      "maximum_exclusive": 30000,
+      "passed": true
+    },
+    "all_passed": true
+  }
+}

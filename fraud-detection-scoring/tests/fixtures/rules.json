@@ -1,0 +1,16 @@
+{
+  "amounts": {
+    "below": 47499.99,
+    "lower": 47500,
+    "upper": 49999.99,
+    "outside": 50000
+  },
+  "upcoding_equality": [100, 100, 100, 100, 200],
+  "upcoding_positive": [100, 100, 100, 100, 100, 300],
+  "resubmission": {
+    "original": "2024-06-03",
+    "included": "2024-06-10",
+    "excluded": "2024-06-11"
+  },
+  "invalid": { "date": "2024-02-30", "weight": 6, "amount": -1 }
+}

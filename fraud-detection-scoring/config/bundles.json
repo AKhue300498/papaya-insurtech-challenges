@@ -1,0 +1,10 @@
+{
+  "mapping_version": "synthetic-1",
+  "bundles": [
+    { "bundle_code": "B-100", "components": ["P-101", "P-102"] },
+    { "bundle_code": "B-200", "components": ["P-201", "P-202"] },
+    { "bundle_code": "B-300", "components": ["P-301", "P-302"] },
+    { "bundle_code": "B-400", "components": ["P-401", "P-402"] },
+    { "bundle_code": "B-500", "components": ["P-501", "P-502"] }
+  ]
+}
